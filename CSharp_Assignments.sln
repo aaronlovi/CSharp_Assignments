@@ -16,6 +16,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract_Class_Assignment",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism_Assignment", "Polymorphism_Assignment\Polymorphism_Assignment.csproj", "{A497E7B9-F1BE-4EF5-B680-25EE236AA02A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators_Assignment", "Operators_Assignment\Operators_Assignment.csproj", "{DC8F65AB-B974-43E3-8B26-46F90E7422F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{A497E7B9-F1BE-4EF5-B680-25EE236AA02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A497E7B9-F1BE-4EF5-B680-25EE236AA02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A497E7B9-F1BE-4EF5-B680-25EE236AA02A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC8F65AB-B974-43E3-8B26-46F90E7422F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8F65AB-B974-43E3-8B26-46F90E7422F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8F65AB-B974-43E3-8B26-46F90E7422F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8F65AB-B974-43E3-8B26-46F90E7422F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
